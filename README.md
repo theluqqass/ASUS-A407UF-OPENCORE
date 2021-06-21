@@ -7,3 +7,6 @@ All thing function is working ( trackpad, audio etc ) except wifi card ( i use A
 These are some useful links and guide that I follow. And dont forget to change the serial number on the config,plist
 1) https://dortania.github.io/OpenCore-Install-Guide/
 2) https://opencore.slowgeek.com/
+3) https://github.com/tunglamvghy/AsusS530UN-hackintosh
+4) https://github.com/VortexisTV/Asus-Zenbook-UX331-Hackintosh
+5) https://github.com/whatnameisit/Asus-Vivobook-X510UA-BQ490-Hackintosh
