@@ -18,4 +18,5 @@ All function is working fine ( trackpad, audio etc ) except wifi card ( i use Ar
 These are some useful links and guide that I follow. And dont forget to change the serial number on the config.plist
 1) https://dortania.github.io/OpenCore-Install-Guide/
 2) https://opencore.slowgeek.com/
+3) https://github.com/huangyz0918/Hackintosh-Installer-University
 
