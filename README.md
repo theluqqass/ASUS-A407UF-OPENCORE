@@ -1,3 +1,11 @@
+![Screenshot 2021-06-22 at 11 34 36 AM](https://user-images.githubusercontent.com/86243750/122859451-a25f5a80-d34e-11eb-8802-4e22dbe450b4.png)
+![Screenshot 2021-06-22 at 11 35 51 AM](https://user-images.githubusercontent.com/86243750/122859457-a5f2e180-d34e-11eb-8a3b-7a6a5cb6c6f3.png)
+![Screenshot 2021-06-22 at 11 36 03 AM](https://user-images.githubusercontent.com/86243750/122859463-a7240e80-d34e-11eb-99ee-2485d32f3504.png)
+![Screenshot 2021-06-22 at 11 36 18 AM](https://user-images.githubusercontent.com/86243750/122859464-a8553b80-d34e-11eb-99c2-a45fadb9a566.png)
+![Screenshot 2021-06-22 at 11 36 25 AM](https://user-images.githubusercontent.com/86243750/122859468-a8edd200-d34e-11eb-83f4-f7f77e3d575e.png)
+![Screenshot 2021-06-22 at 11 36 41 AM](https://user-images.githubusercontent.com/86243750/122859471-aa1eff00-d34e-11eb-8384-8abf424483c8.png)
+![Screenshot 2021-06-22 at 11 37 02 AM](https://user-images.githubusercontent.com/86243750/122859474-aab79580-d34e-11eb-9021-85b743c22d4d.png)
+
 # General Idea of Hackintosh
 When Apple announced their switch away from the PowerPC architecture to Intel's processors and chipsets, many were looking forward to having the ability to run Windows software on Apple hardware and Apple's operating systems on their non-Apple hardware. Apple was able to eventually build their Boot Camp feature in Mac OS X 10.5, later allowing Windows to run on Apple hardware. Those hoping to easily run Mac OS X on a standard PC didn't have it so easy.
 
