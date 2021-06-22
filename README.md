@@ -1,3 +1,4 @@
+# What is Hackintosh
 # ASUS-A407UF-OPENCORE-BIGSUR-
 As the title show, this is Hackintosh setup on Asus laptop with a specification
 1) Intel® Core™ i5-8250U processor 1.6 GHz (6M Cache, up to 3.4 GHz)
