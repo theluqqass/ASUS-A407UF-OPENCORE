@@ -6,6 +6,7 @@
 ![Screenshot 2021-06-22 at 11 36 41 AM](https://user-images.githubusercontent.com/86243750/122859471-aa1eff00-d34e-11eb-8384-8abf424483c8.png)
 ![Screenshot 2021-06-22 at 11 37 02 AM](https://user-images.githubusercontent.com/86243750/122859474-aab79580-d34e-11eb-9021-85b743c22d4d.png)
 
+NOW SUPPORT VENTURA
 # General Idea of Hackintosh
 When Apple announced their switch away from the PowerPC architecture to Intel's processors and chipsets, many were looking forward to having the ability to run Windows software on Apple hardware and Apple's operating systems on their non-Apple hardware. Apple was able to eventually build their Boot Camp feature in Mac OS X 10.5, later allowing Windows to run on Apple hardware. Those hoping to easily run Mac OS X on a standard PC didn't have it so easy.
 
